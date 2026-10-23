@@ -1,0 +1,10 @@
+{
+  "slug": "device-tracker",
+  "nama": "AKSMA Device Tracker",
+  "menu": "DEVICE TRACKER",
+  "deskripsi": "Peminjaman dan pengembalian laptop & tablet sekolah lewat QR Code.",
+  "urutan": 2,
+  "url": "device-tracker/",
+  "admin_url": "device-tracker/?page=admin",
+  "prefix_tabel": "dt_"
+}

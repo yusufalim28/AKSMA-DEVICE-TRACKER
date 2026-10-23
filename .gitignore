@@ -1,0 +1,21 @@
+# Konfigurasi & rahasia: JANGAN di-commit
+core/config.php
+storage/*
+!storage/.htaccess
+service-account*.json
+
+# Database, log, kunci, berkas kunci proses
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.log
+*.lock
+secret.key
+gtoken.json
+
+# Lain-lain
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.zip
